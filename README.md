@@ -61,9 +61,6 @@ This is an inventory management application built with Python using `tkinter` fo
 - The application uses a `config.json` file to store configuration settings. If the file doesn't exist, it will be created with default settings.
 - You can adjust the duration of pop-up alerts in the "Configuration" tab and save the changes.
 
-## Author
-
-- **Your Name** - [your-username](https://github.com/your-username)
 
 ## License
 
