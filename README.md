@@ -12,7 +12,7 @@ This is an inventory management application built with Python using `tkinter` fo
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/inventory-management-app.git
+    git clone https://github.com/LuigiNeto01/inventory-management-app.git
     cd inventory-management-app
     ```
 
